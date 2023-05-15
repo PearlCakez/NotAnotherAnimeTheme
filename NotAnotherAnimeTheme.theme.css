@@ -215,6 +215,24 @@ body
   --text-normal: rgb(7, 253, 159);
   --header-primary: rgb(0, 174, 255);
   --header-secondary: rgb(7, 255, 234);
+  --interactive-normal: rgb(195, 106, 255);
   --text-muted: rgb(20, 102, 255);
+  --channel-icon: rgb(239, 158, 255);
+  --interactive-active: rgb(20, 255, 118);
+  
+  
+
+  /*
+  just leave it here code that also works if u want to change things
+  
+  DISCORD COLORS IN DMS LIKE THE COLOR YA YAAA...
+
+  --channels-default: rgb(182, 182, 182);
+  
+  THIS IS LITERALLY THE LOGO BOOST ICON v
+
+  --interactive-muted: rgb(23, 70, 226);
+
+  */
   
 }
