@@ -71,8 +71,8 @@ body
   /*
     Mention colors
   */
-  --mention-color: rgba(104, 252, 99, 0.979);
-  --mention-sider: rgba(250, 166, 26, 1);
+  --mention-color: rgba(91, 255, 86, 0.08);
+  --mention-sider: rgb(72, 255, 231);
   --mention-hover-color: rgba(250, 166, 26, 0.08);
 
   /*
@@ -160,7 +160,7 @@ body
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #8cff4a;
+  --unread-message-divider-color: #3af873;
   --unread-message-divider-font-color: #fff;
 
   /*
