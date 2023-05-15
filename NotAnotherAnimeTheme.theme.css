@@ -71,7 +71,7 @@ body
   /*
     Mention colors
   */
-  --mention-color: rgba(255, 7, 7, 0.979);
+  --mention-color: rgba(104, 252, 99, 0.979);
   --mention-sider: rgba(250, 166, 26, 1);
   --mention-hover-color: rgba(250, 166, 26, 0.08);
 
