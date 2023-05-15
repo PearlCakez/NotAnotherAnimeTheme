@@ -161,7 +161,7 @@ body
     Unread Message Divider
   */
   --unread-message-divider-color: #3af873;
-  --unread-message-divider-font-color: #fff;
+  --unread-message-divider-font-color: #ffffff;
 
   /*
     New Messages Bar Color
@@ -188,10 +188,10 @@ body
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(142, 146, 151);
+  --text-voice-channel-color: rgb(98, 207, 250);
   --text-voice-channel-hover-color: #dcddde;
-  --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #fff;
+  --text-voice-channel-selected-text-color: #04ff9f;
+  --unread-text-channel-color: #f72626;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
