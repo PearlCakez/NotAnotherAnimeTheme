@@ -215,5 +215,6 @@ body
   --text-normal: rgb(7, 253, 159);
   --header-primary: rgb(0, 174, 255);
   --header-secondary: rgb(7, 255, 234);
+  --text-muted: rgb(20, 102, 255);
   
 }
