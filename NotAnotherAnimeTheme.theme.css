@@ -110,13 +110,13 @@ body
     Big User Popout
   */
   --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --big-user-popout-background-transparency: rgb(0, 0, 0, 0);
   --big-user-popout-background-image-position: center;
 
   /*
     Code Markup
   */
-  --code-markup-background-color: rgba(0, 0, 0, 0.6);
+  --code-markup-background-color: rgb(0, 0, 0, 0.6);
   --code-markup-border: 1px solid transparent;
 
   /*
@@ -155,7 +155,7 @@ body
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 200, 200, 0.2);
+  --scrollbar-color: rgba(8, 185, 255, 0.2);
 
   /*
     Unread Message Divider
@@ -206,7 +206,7 @@ body
   --reaction-emoji-background-color: rgba(0, 0, 0, 0);
   --reaction-emoji-border-color: 1px solid transparent;
   --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
-  --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
+  --reaction-emoji-hover-border-color: rgb(255, 255, 255, 0.2);
 
   /*
   my shit
